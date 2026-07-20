@@ -1,4 +1,4 @@
-# JobCatalyst - Job Portal Application
+# JobCatalyst-v1 - Job Portal Application
 
 ## Overview
 
